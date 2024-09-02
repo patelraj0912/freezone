@@ -3,18 +3,18 @@ Setp to run project :
 
 2)clone repo in xampp->htdoc folder
 
-2)Open xampp panel
+3)Open xampp panel
 
-3)start Apache and MySQL
+4)start Apache and MySQL
 
-4)click Admin Button of MySQL (open phpmyadmin in browser)
+5)click Admin Button of MySQL (open phpmyadmin in browser)
 
-5)Navigate to import :
+6)Navigate to import :
 	i)select databse file from Databse->innovation_db.sql
 	ii)select format SQL
 	iii)Click on Import button
 
-6)click Admin Button of Apache (open localhost/dashboard in browser)
+7)click Admin Button of Apache (open localhost/dashboard in browser)
 	write localhost/freezone instead os localhost/dashboard
 
  
